@@ -1,0 +1,4 @@
+---
+# vars file for ec2
+
+java_packages: openjdk-11-jdk
