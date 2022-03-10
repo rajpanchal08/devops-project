@@ -1,8 +1,0 @@
----
-
-- hosts: "{{ ec2_instances }}"
-  become: true
-  roles:
-    - role: ec2
-
-
